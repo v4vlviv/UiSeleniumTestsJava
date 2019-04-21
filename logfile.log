@@ -1,0 +1,38 @@
+2019-04-22 00:11:51,575 INFO  [WD] Create instance of Chrome Driver 
+2019-04-22 00:11:59,836 INFO  [WD: ] Clean up logs 
+2019-04-22 00:11:59,855 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:11:59,856 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:11:59,856 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:00,407 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:00,407 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:00,407 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:04,004 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:04,005 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:04,005 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:04,270 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:04,270 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:04,270 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:07,845 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:07,846 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:07,846 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:08,117 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:08,118 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:08,118 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:11,649 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:11,649 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:11,650 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:11,950 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:11,950 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:11,950 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:15,485 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:15,485 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:15,485 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:15,779 INFO  [WD: ] TestConnectorsList -  
+2019-04-22 00:12:15,780 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:15,780 INFO  [WD] Test started: TestConnectorsList 
+2019-04-22 00:12:19,312 INFO  [WD: ] TestAddConnectorAdmin365 -  
+2019-04-22 00:12:19,312 INFO  [WD] Test class started: com.keepit.tests.SuitConnectorsTest 
+2019-04-22 00:12:19,312 INFO  [WD] Test started: TestAddConnectorAdmin365 
+2019-04-22 00:12:20,870 INFO  [WD] Test SUCCESS: TestAddConnectorAdmin365 
+2019-04-22 00:12:21,765 ERROR [WD] Failed to kill process: Cannot run program "taskkill": error=2, No such file or directory 
+2019-04-22 00:12:21,765 INFO  [WD] Driver is closed 

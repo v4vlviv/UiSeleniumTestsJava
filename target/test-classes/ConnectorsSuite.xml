@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ConnectorsSuite" >
+    <parameter name="email" value="automation@keepitqa.com"/>
+    <parameter name="password" value="E#*b2wGIbFHz"/>
+    <listeners>
+        <listener class-name="com.keepit.helpers.CustomListener"/>
+    </listeners>
+    <test name="Connectors">
+        <classes>
+            <class name="com.keepit.tests.SuitConnectorsTest"/>
+        </classes>
+    </test>
+</suite>
+
